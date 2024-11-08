@@ -1,4 +1,4 @@
-# Homework Assignment: Trading Strategy and Energy Maze
+# Trading Strategy and Energy Maze
 
 ## Overview
 
